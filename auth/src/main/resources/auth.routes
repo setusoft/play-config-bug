@@ -1,0 +1,3 @@
+GET     /config                     controllers.auth.Application.config
+GET     /message                    controllers.auth.Application.message
+GET     /router                     controllers.auth.Application.router
